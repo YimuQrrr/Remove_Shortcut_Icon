@@ -11,8 +11,11 @@
 \/ \_/\___|_| |_| |_|\___/ \_/ \___|___\__/_| |_|\___/|_|   \__\___|\__,_|\__|___\____/ \___\___/|_| |_|
              
 ```
-<img align="left" src="img/F.png" width="255px"/>
-<img align="right" src="img/T.png" width="255px"/>
+
+<img align="left" src="img/F.png" width="500px"/>
+
+<img align="right" src="img/T.png" width="500px"/>
+
 ```zsh
 > Remove_Shortcut_Icon  ⭐
 ```
