@@ -17,8 +17,8 @@
 
 
 ```zsh
-> Remove_Shortcut_Icon  ⭐
-> Remove_Shortcut_Icon  ⭐
+> ⭐ Very simple, one-time  ⭐
+> ⭐ Remove shortcut icon  ⭐
 ```
 
 
