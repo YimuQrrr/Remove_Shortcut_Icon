@@ -19,7 +19,8 @@
 
 
 ```zsh
-> ⭐ Very simple one-time ⭐
+> Very simple one-time ⭐
+> Remove shortcut icon ⭐
 ```
 
 ```zsh
