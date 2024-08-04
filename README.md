@@ -21,5 +21,8 @@
 > ⭐ Remove shortcut icon ⭐
 ```
 
+```zsh
+> ⭐ Very simple one-time ⭐
+```
 
 <h2 align="center"> 🧡 END 🧡 </h2>
