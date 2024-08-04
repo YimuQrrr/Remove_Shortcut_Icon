@@ -12,9 +12,9 @@
              
 ```
 
-<img align="left" src="img/F.png" width="500px"/>
+<img align="left" src="img/F.png" width="300px"/>
+<img align="right" src="img/T.png" width="300px"/>
 
-<img align="right" src="img/T.png" width="500px"/>
 
 ```zsh
 > Remove_Shortcut_Icon  ⭐
