@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34407.89
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Shortcut_Icon", "Remove_Shortcut_Icon.csproj", "{C21496F7-BC4E-454D-B41A-6514B8E74337}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Shortcut_Icon", "Remove_Shortcut_Icon.csproj", "{4F3127E4-4E4B-434A-BC16-4A4195164164}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C21496F7-BC4E-454D-B41A-6514B8E74337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C21496F7-BC4E-454D-B41A-6514B8E74337}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C21496F7-BC4E-454D-B41A-6514B8E74337}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C21496F7-BC4E-454D-B41A-6514B8E74337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3127E4-4E4B-434A-BC16-4A4195164164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3127E4-4E4B-434A-BC16-4A4195164164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3127E4-4E4B-434A-BC16-4A4195164164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3127E4-4E4B-434A-BC16-4A4195164164}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2104A238-78B9-4509-A4CC-4915C2509480}
+		SolutionGuid = {37F1C066-BE30-4D1F-BDD0-E254D6011D87}
 	EndGlobalSection
 EndGlobal
