@@ -18,6 +18,7 @@
 
 ```zsh
 > Remove_Shortcut_Icon  ⭐
+> Remove_Shortcut_Icon  ⭐
 ```
 
 
