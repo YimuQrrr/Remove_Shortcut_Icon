@@ -28,9 +28,7 @@
 
 ```zsh
 > Because it s a one-time action I didn t include recovery code ⭐
-```
 
-```zsh
 > To revert  please manually delete the key named 29 under the registry path ⭐
 
 > HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons <
