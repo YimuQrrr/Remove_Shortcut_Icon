@@ -5,7 +5,7 @@ using System.Security.Principal;
 
 namespace Remove_Shortcut_Icon
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace Remove_Shortcut_Icon
             string Data = @"%windir%\System32\shell32.dll,51";
 
             using (RegistryKey Key = Registry.LocalMachine.CreateSubKey(Path))
-            Key.SetValue(Name, Data, RegistryValueKind.String);
+                Key.SetValue(Name, Data, RegistryValueKind.String);
 
             foreach (var process in Process.GetProcessesByName("explorer")) { process.Kill(); }
             Process.Start("explorer.exe");
