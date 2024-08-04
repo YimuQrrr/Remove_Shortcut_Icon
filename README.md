@@ -22,7 +22,9 @@
 ```
 
 ```zsh
-> ⭐ Very simple one-time ⭐
+> Because it's a one-time action, I didn't include recovery code. ⭐
+> To revert, please manually delete the key named 29 under the registry path
+> HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons ⭐
 ```
 
 <h2 align="center"> 🧡 END 🧡 </h2>
