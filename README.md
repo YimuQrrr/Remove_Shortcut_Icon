@@ -1,8 +1,9 @@
 <h2 align="center"> ✨ Remove_Shortcut_Icon ✨ </h2>
 
 ```zsh
-> Remove_Shortcut_Icon ⭐
+A very simple one-time program to remove shortcut icons ⭐
 ```
+
 ```zsh
    __                                   __ _                _             _        _____                
   /__\ ___ _ __ ___   _____   _____    / _\ |__   ___  _ __| |_ ___ _   _| |_      \_   \___ ___  _ __  
